@@ -1,0 +1,6 @@
+{
+  "name": "Apex Construction Group",
+  "description": "A professional, trust-inspiring website for a leading commercial and residential construction group, designed to showcase projects and convert leads through a multi-step quote request system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
